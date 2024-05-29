@@ -3,6 +3,7 @@ Hi 👋 My name is Nathanim Tadele
 
 Software Engineer
 -----------------
+![](https://komarev.com/ghpvc/?username=Nathanim1919)
 
 I have a solid background in both front-end and back-end development, initially explored as a hobby during my college years. While I am proficient in front-end technologies, I have recently shifted my focus to back-end development. I am currently specializing in this area through the comprehensive Full Stack Software Engineering program at ALX Africa. This diverse skill set allows me to consider myself a full-stack developer.
 
