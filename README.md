@@ -1,34 +1,235 @@
-Hi 👋 My name is Nathanim Tadele
-================================
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Nathanim+Tadele+%F0%9F%92%BB;Senior+Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%8E%93;Building+the+Future+with+Code+%F0%9F%9B%A0" alt="Typing SVG" />
+</div>
 
-Software Engineer
------------------
-![](https://komarev.com/ghpvc/?username=Nathanim1919)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nathanim%20Tadele&fontSize=80&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=center" />
+</div>
 
-I have a solid background in both front-end and back-end development, initially explored as a hobby during my college years. While I am proficient in front-end technologies, I have recently shifted my focus to back-end development. I am currently specializing in this area through the comprehensive Full Stack Software Engineering program at ALX Africa. This diverse skill set allows me to consider myself a full-stack developer.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nathanim1919&label=Profile%20views&color=0891b2&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Ethiopia%20🇪🇹-blue" alt="Location" />
+  <img src="https://img.shields.io/badge/Timezone-EAT-orange" alt="Timezone" />
+</div>
 
-*   🌍  I'm based in Ethiopia
-*   🖥️  See my portfolio at [nathanimt.me](http://nathanimt.me)
-*   ✉️  You can contact me at [nathanim2tadele@gmail.com](mailto:nathanim2tadele@gmail.com)
-*   🧠  I'm learning Enterprize Level TypeScript @frontend masters
-*   🤝  I'm open to collaborating on JavaScript and Python projects
-*   ⚡  I write code that occasionally works like magic.
+---
+
+## 🚀 About Me
+
+<div align="center">
+  <img src="https://github.com/Nathanim1919/Nathanim1919/blob/main/assets/coding.gif" alt="Coding GIF" width="400" height="300" />
+</div>
+
+```typescript
+interface NathanimTadele {
+  name: "Nathanim Tadele";
+  role: "Software Engineer";
+  location: "Ethiopia 🇪🇹";
+  experience: "2+ years";
+  education: "ALX Africa Full Stack Program";
+  currentFocus: "Enterprise TypeScript @ Frontend Masters and Working on Gen AI Solutions";
+  passion: "Building scalable applications";
+  philosophy: "Code that works like magic ✨";
   
-  ### Skills 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-                    </p>
-                    
-### Socials
-                  
- <p align="left"> <a href="https://discord.com/users/nathan_2119" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Nathanim1919" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/na_tha_n21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nathanim-tadele-762099247/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@na.tha.n21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+  skills: {
+    frontend: ["React", "TypeScript", "TailwindCSS", "Next.js"];
+    backend: ["Node.js", "Python", "Express", "Django", "Flask"];
+    databases: ["MongoDB", "PostgreSQL", "MySQL"];
+    tools: ["Git", "Docker", "Linux", "VS Code"];
+    learning: ["Enterprise TypeScript", "System Design"];
+  };
+  
+  interests: ["AI/ML", "Cloud Computing", "DevOps", "Open Source"];
+  availability: "Open to collaboration";
+}
+```
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🛠️ Tech Stack & Tools
 
-<a href="http://www.github.com/Nathanim1919"><img src="https://github-readme-stats.vercel.app/api?username=Nathanim1919&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nathanim1919's GitHub stats" /></a>
+<div align="center">
+  <h3>Frontend Technologies</h3>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
 
-<a href="http://www.github.com/Nathanim1919"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathanim1919&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
+  <h3>Backend Technologies</h3>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+</div>
 
-<a href="https://github.com/Nathanim1919" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanim1919&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <h3>Databases & Cloud</h3>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</div>
+
+<div align="center">
+  <h3>Development Tools</h3>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nathanim1919&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathanim1919&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=0891B2&fire=0891B2&currStreakNum=FFFFFF&currStreakLabel=0891B2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanim1919&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nathanim1919&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🎯 Current Focus & Learning
+
+<div align="center">
+  <img src="https://github.com/Nathanim1919/Nathanim1919/blob/main/assets/learning.gif" alt="Learning GIF" width="300" height="200" />
+</div>
+
+- 🎓 **Enterprise TypeScript** @ Frontend Masters
+- 🏗️ **System Design** & Architecture Patterns
+- ☁️ **Cloud Computing** & DevOps Practices
+- 🤖 **AI/ML** Integration in Web Applications
+- 🔒 **Security Best Practices** & Code Quality
+
+---
+
+## 🚀 Recent Projects
+
+<div align="center">
+  <h3>🌟 Featured Projects</h3>
+</div>
+
+### 🔗 LinkMeld - AI-Powered Content Management
+```typescript
+// Modern React + TypeScript + AI Integration
+const LinkMeld = {
+  stack: ["React 19", "TypeScript", "TailwindCSS", "AI/ML"],
+  features: ["Content Capture", "AI Summaries", "Smart Organization"],
+  status: "In Development"
+};
+```
+
+### 🎨 Portfolio Website
+```typescript
+// Personal Branding & Showcase
+const Portfolio = {
+  stack: ["Next.js", "TypeScript", "Framer Motion"],
+  features: ["Interactive Design", "Responsive", "Modern UI/UX"],
+  status: "Live"
+};
+```
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathanim1919&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎵 Coding Vibes
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify" alt="Spotify Playing" />
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <h3>🌐 Social Links</h3>
+  
+  <a href="http://nathanimt.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  
+  <a href="mailto:nathanim2tadele@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/nathanim-tadele-762099247/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://www.github.com/Nathanim1919" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
+  <a href="https://discord.com/users/nathan_2119" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  
+  <a href="http://www.instagram.com/na_tha_n21" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+## 💡 Fun Facts
+
+<div align="center">
+  <img src="https://github.com/Nathanim1919/Nathanim1919/blob/main/assets/fun-facts.gif" alt="Fun Facts GIF" width="300" height="200" />
+</div>
+
+- 🎯 **Code Philosophy**: "Write code that occasionally works like magic ✨"
+- 🌍 **Location**: Based in Ethiopia 🇪🇹
+- 🎓 **Education**: ALX Africa Full Stack Software Engineering Program
+- 🤝 **Collaboration**: Open to JavaScript/TypeScript and Gen AI Projects
+- ⚡ **Specialty**: Full-stack development with focus on scalable solutions
+- 🚀 **Goal**: Building the future with clean, efficient code
+
+---
+
+## 🎨 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  
+  <p>Made with ❤️ by <strong>Nathanim Tadele</strong></p>
+  <p>⭐ Star this repository if you found it helpful!</p>
+</div>
