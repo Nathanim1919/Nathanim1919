@@ -54,6 +54,6 @@ I specialize in the **JavaScript/TypeScript ecosystem**, leveraging modern frame
   <p><i>"Quality is not an act, it is a habit."</i></p>
   <p>
     <a href="https://linkedin.com/in/nathanim-tadele-762099247">Let's Connect on LinkedIn</a> • 
-    <a href="http://nathanimt.me">View My Portfolio</a>
+    <a href="https://portfolio-v2-self-gamma.vercel.app/">View My Portfolio</a>
   </p>
 </div>
